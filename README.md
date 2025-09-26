@@ -1,5 +1,4 @@
 # node-js-getting-started
-adding this to test something out
 =======
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
