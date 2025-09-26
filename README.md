@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # node-js-getting-started
 adding this to test something out
 =======
